@@ -1,11 +1,12 @@
 ## MongoDB Index Advisor 
 This notebook can be used to:
 - keep track of designed vs current indexes 
-- get index recommendations from CLI 
+- get index recommendations from Atlas CLI 
 - associate queries with indexes 
-- get query explain plan 
+- get getails from query explain plan 
 - benchmark query end-to-end execution time 
-- generate a user-friendly summary for query performance recommendations with a LLM
+- generate a user-friendly summary for query performance recommendations with a LLM 
+- ask follow-up question on recommendations 
 
 Setup and test connectivity: [README.ipynb](README.ipynb)
 
