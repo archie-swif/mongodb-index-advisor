@@ -4,3 +4,5 @@ anthropic
 ipython
 requests
 beautifulsoup4
+plotly
+pandas
