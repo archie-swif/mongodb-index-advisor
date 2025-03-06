@@ -10,5 +10,7 @@ This notebook can be used to:
 
 Setup and test connectivity: [README.ipynb](README.ipynb)
 
-Index advisor: [mongodb-index-advisor.ipynb](mongodb-index-advisor.ipynb)
+MongoDB advisor example: [mongodb-advisor-example.ipynb](mongodb-advisor-example.ipynb)
+
+MongoDB advisor blank template: [mongodb-advisor-template.ipynb](mongodb-advisor-template.ipynb)
 
