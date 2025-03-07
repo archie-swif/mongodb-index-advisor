@@ -12,5 +12,5 @@ Setup and test connectivity: [README.ipynb](README.ipynb)
 
 MongoDB advisor example: [mongodb-advisor-example.ipynb](mongodb-advisor-example.ipynb)
 
-MongoDB advisor blank template: [mongodb-advisor-template.ipynb](mongodb-advisor-template.ipynb)
+Use a blank template for your case: [mongodb-advisor-template.ipynb](mongodb-advisor-template.ipynb)
 
